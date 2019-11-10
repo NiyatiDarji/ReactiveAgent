@@ -1,4 +1,4 @@
-# ReactiveAgent-
+# ReactiveAgent
 Implementing reactive agent in krislet environment.
 
 My reactive agent performs the actions based on the following rules:
